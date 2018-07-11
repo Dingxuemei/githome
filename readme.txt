@@ -4,4 +4,5 @@ git is a useful software
 git has a mutable index called stage
 hello world
 dell
-my stupid boss
+my stupid bost
+update readme.txt
